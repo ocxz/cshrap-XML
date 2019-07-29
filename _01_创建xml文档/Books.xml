@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Books>
+  <Book>
+    <BookName>水浒传</BookName>
+    <Author>施耐庵</Author>
+    <Price>100RMB</Price>
+    <Des>好看</Des>
+  </Book>
+</Books>

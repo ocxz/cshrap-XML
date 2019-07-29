@@ -5,6 +5,18 @@ VisualStudioVersion = 16.0.28922.388
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_01_创建xml文档", "_01_创建xml文档\_01_创建xml文档.csproj", "{21411BB8-AA6D-4CDF-97D0-E3F0096D5149}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_02_创建添加带属性的XML文档", "_02_创建添加带属性的XML文档\_02_创建添加带属性的XML文档.csproj", "{CFD33E0B-1BFE-4702-8F2C-788C7FB21CB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_03_文档对象模型", "_03_文档对象模型\_03_文档对象模型.csproj", "{6450D376-EA14-4C03-9C10-F3DB3A783072}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_04_对xml文档的增删改查操作", "_04_对xml文档的增删改查操作\_04_对xml文档的增删改查操作.csproj", "{C844587F-FAF0-453C-A8F1-DE62EAB31320}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_05_登录注册小案例", "_05_登录注册小案例\_05_登录注册小案例.csproj", "{7E001387-9AC0-4311-AF48-32A419BC2B4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_06_测试反射", "_06_测试反射\_06_测试反射.csproj", "{9A0FCCED-B975-41DF-948A-38D9AE4DCAC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_07_ 利用xml实现增删改查", "_07_ 利用xml实现增删改查\_07_ 利用xml实现增删改查.csproj", "{57CD368E-6D21-4D92-B7AE-A8A793D40EC6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +27,30 @@ Global
 		{21411BB8-AA6D-4CDF-97D0-E3F0096D5149}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21411BB8-AA6D-4CDF-97D0-E3F0096D5149}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21411BB8-AA6D-4CDF-97D0-E3F0096D5149}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFD33E0B-1BFE-4702-8F2C-788C7FB21CB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFD33E0B-1BFE-4702-8F2C-788C7FB21CB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFD33E0B-1BFE-4702-8F2C-788C7FB21CB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFD33E0B-1BFE-4702-8F2C-788C7FB21CB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6450D376-EA14-4C03-9C10-F3DB3A783072}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6450D376-EA14-4C03-9C10-F3DB3A783072}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6450D376-EA14-4C03-9C10-F3DB3A783072}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6450D376-EA14-4C03-9C10-F3DB3A783072}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C844587F-FAF0-453C-A8F1-DE62EAB31320}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C844587F-FAF0-453C-A8F1-DE62EAB31320}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C844587F-FAF0-453C-A8F1-DE62EAB31320}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C844587F-FAF0-453C-A8F1-DE62EAB31320}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E001387-9AC0-4311-AF48-32A419BC2B4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E001387-9AC0-4311-AF48-32A419BC2B4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E001387-9AC0-4311-AF48-32A419BC2B4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E001387-9AC0-4311-AF48-32A419BC2B4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A0FCCED-B975-41DF-948A-38D9AE4DCAC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A0FCCED-B975-41DF-948A-38D9AE4DCAC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A0FCCED-B975-41DF-948A-38D9AE4DCAC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A0FCCED-B975-41DF-948A-38D9AE4DCAC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57CD368E-6D21-4D92-B7AE-A8A793D40EC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57CD368E-6D21-4D92-B7AE-A8A793D40EC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57CD368E-6D21-4D92-B7AE-A8A793D40EC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57CD368E-6D21-4D92-B7AE-A8A793D40EC6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
